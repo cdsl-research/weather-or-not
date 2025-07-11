@@ -91,7 +91,5 @@ python plot_temperature.py daily_weather_2025-01-05.json
 
 ## API 制限事項
 
-- OpenWeather API の Time Machine 機能を使用
 - API キーに応じたレート制限あり
 - 過去 5 日間のデータのみ取得可能
-m
