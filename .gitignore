@@ -1,0 +1,31 @@
+# 環境変数
+.env
+
+# Node modules
+node_modules/
+
+# 出力ファイル
+outputs/
+*.json
+*.png
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+
+# IDEファイル
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+ENV/
+
+# ログファイル
+*.log
